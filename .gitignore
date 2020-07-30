@@ -3,3 +3,5 @@
 
 #ignore all .a or .o files
 *.[ao]
+*.odt
+slprj
